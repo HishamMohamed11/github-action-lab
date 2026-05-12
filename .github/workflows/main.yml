@@ -21,8 +21,7 @@ jobs:
 
     # WHERE to run
 
-    runs-on: ubuntu-latest
-
+    runs-on: hisham-1
     steps:
 
     # STEP 1: Checkout code
